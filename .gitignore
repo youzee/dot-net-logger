@@ -1,0 +1,8 @@
+# Ignore compilation results
+Debug/
+obj/
+
+# Ignore test results
+TestResults/
+*.testsettings
+*.pdb
